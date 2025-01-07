@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Rahul Pandey rahulpandey96dbs@gmail.com @terminator-96
 
 # THANKS
 
